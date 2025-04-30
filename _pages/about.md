@@ -22,13 +22,32 @@ Linkedin: [http://linkedin.com/in/junlong-xu](http://linkedin.com/in/junlong-xu)
 
 Recent milestones
 ======
-<ul style="list-style: none; padding-left: 0; font-size: 16px;">
+<ul class="timeline">
   <li>
-    <strong>Aug 2025</strong><br>
-    Officially started my academic endeavor at Aalto University School of Business.
+    <span class="date">Aug 2025</span>
+    <span class="desc">Officially started my academic endeavor at Aalto University School of Business.</span>
   </li>
-  <li style="margin-top: 1em;">
-    <strong>Feb 2025</strong><br>
-    Received and accepted the offer from Aalto University School of Business.
+  <li>
+    <span class="date">Feb 2025</span>
+    <span class="desc">Received and accepted the offer from Aalto University School of Business.</span>
   </li>
 </ul>
+
+<style>
+.timeline {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1rem;
+}
+.timeline li {
+  margin-bottom: 1rem;
+}
+.timeline .date {
+  display: inline-block;
+  font-weight: bold;
+  min-width: 100px;
+}
+.timeline .desc {
+  display: inline-block;
+}
+</style>
