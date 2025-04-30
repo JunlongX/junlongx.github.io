@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome! My name is Junlong Xu, and I am a first-year Ph.D. student at [Department of Finance](https://www.aalto.fi/en/department-of-finance), Aalto University School of Business. My research interests lie in empirical asset pricing and international finance, with a particular focus on global capital flow risk.
+Hi, welcome! My name is Junlong Xu, and I am a first-year Ph.D. student in the [Department of Finance](https://www.aalto.fi/en/department-of-finance) at Aalto University School of Business. My research interests lie in empirical asset pricing and international finance, with a particular focus on global capital flow risk.
 
 Prior to joining Aalto, I earned an M.Sc. in Finance at the Stockholm School of Economics and a dual B.Sc. in Financial Mathematics from Xi’an Jiaotong-Liverpool University and University of Liverpool. My academic background combines quantitative skills with applied financial research, which continues to shape my current work.
 
