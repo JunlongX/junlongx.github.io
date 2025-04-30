@@ -20,3 +20,15 @@ Contact
 Email: [42682@student.hhs.se](mailto:42682@student.hhs.se)   
 Linkedin: [http://linkedin.com/in/junlong-xu](http://linkedin.com/in/junlong-xu) 
 
+Recent milestones
+======
+<ul style="list-style: none; padding-left: 0; font-size: 16px;">
+  <li>
+    <strong>Aug 2025</strong><br>
+    Officially started my academic endeavor at Aalto University School of Business.
+  </li>
+  <li style="margin-top: 1em;">
+    <strong>Feb 2025</strong><br>
+    Received and accepted the offer from Aalto University School of Business.
+  </li>
+</ul>
