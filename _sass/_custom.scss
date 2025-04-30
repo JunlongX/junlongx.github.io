@@ -1,12 +1,18 @@
-.page--no-sidebar {
-  #main {
-    max-width: 100% !important;
-    margin-left: 0 !important;
-  }
+.page--no-sidebar #main {
+  max-width: 100% !important;
+  margin-left: 0 !important;
+}
 
-  .page__inner-wrap {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-    max-width: 100% !important;
-  }
+.page--no-sidebar .page__inner-wrap {
+  margin-left: 0 !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  max-width: 100% !important;
+}
+
+.page--no-sidebar .sidebar,
+.page--no-sidebar .sidebar__right {
+  display: none !important;
+  width: 0 !important;
+  flex: none !important;
 }
