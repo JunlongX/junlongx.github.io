@@ -17,6 +17,6 @@ You can find my CV [here](.../assets/CV.pdf). (Updated April 2025)
 ---
 
 ## Contact
-Email: [42682@student.hhs.se](mailto:42682@student.hhs.se)
+Email: [42682@student.hhs.se](mailto:42682@student.hhs.se)   
 Linkedin: [http://linkedin.com/in/junlong-xu](http://linkedin.com/in/junlong-xu) 
 
