@@ -1,11 +1,6 @@
-.page--no-sidebar .page__inner-wrap,
-.page--no-sidebar .page {
+.page--no-sidebar .page__inner-wrap {
   margin-left: 0 !important;
   max-width: 100% !important;
-  padding-left: 2rem; // 可选：让内容不贴屏幕左边
-}
-
-// 可选：移除主容器限制（有些模板用 #main 限宽）
-main {
-  max-width: none !important;
+  width: 100% !important;
+  padding-left: 2rem;
 }
