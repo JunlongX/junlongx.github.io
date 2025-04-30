@@ -1,5 +1,12 @@
-.page--no-sidebar .page__inner-wrap {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-  max-width: 100% !important;
+.page--no-sidebar {
+  #main {
+    max-width: 100% !important;
+    margin-left: 0 !important;
+  }
+
+  .page__inner-wrap {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    max-width: 100% !important;
+  }
 }
